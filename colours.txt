@@ -1,9 +1,9 @@
-VIBGYOR
-voilet
-indigo
-blue
-green
-yellow
-orange
-red
-the invisible
+VIBGYOR:
+Voilet
+Indigo
+Blue
+Green
+Yellow
+Orange
+Red
+The Invisible
